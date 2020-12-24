@@ -1,0 +1,12 @@
+.ok{
+    color: red;
+    background-color:orange;
+}
+
+label {
+    padding-left:10px ;
+}
+
+input[type="checkbox"] {
+    margin-left: 10px;
+}
